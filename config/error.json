@@ -1,0 +1,4 @@
+{
+    "DB_NOT_CONNECTED": "Can not connect to database", 
+    "DB_NOT_SYNC":  "Can not sync model to database"
+}

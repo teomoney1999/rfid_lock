@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "lazyteam",
+    "password": "nZ2kV4rnLkz3QLv",
+    "database": "lock_sys_backend",
+    "host": "0.0.0.0",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "lazyteam",
+    "password": "nZ2kV4rnLkz3QLv",
+    "database": "lock_sys_backend",
+    "host": "0.0.0.0",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "lazyteam",
+    "password": "nZ2kV4rnLkz3QLv",
+    "database": "lock_sys_backend",
+    "host": "0.0.0.0",
+    "dialect": "postgresql"
+  }
+}
+
